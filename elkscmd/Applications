@@ -209,3 +209,4 @@ nano-X/bin/nxworld.map	::lib/nxworld.map	:nanox
 basic/basic						:basic              :1200k
 advent/advent					:other
 advent/advent.db	::lib/advent.db	:other
+or566flash/flash                :128k
