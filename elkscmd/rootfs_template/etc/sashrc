@@ -2,3 +2,6 @@
 setenv TZ GMT0
 setenv HISTORY 30
 setenv HISTPAGE 20
+alias m mount -t msdos /dev/ssd /mnt
+alias n ktcp -b -p eth 192.168.137.69 192.168.137.1 255.255.255.0
+alias s /mnt/sd

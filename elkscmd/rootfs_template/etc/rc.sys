@@ -43,6 +43,9 @@ esac
 
 #uname -snrm
 
+mount -t fat /dev/ssd /mnt
+
+echo "Welcome, welcome to city 17"
 date
 # display internal commands used
 #hash
